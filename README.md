@@ -10,6 +10,7 @@ Based on this 1000 samples, how much a customer would leave the tip if the meal 
 2. numpy
 3. scipy
 4. pandas
+5. Scikitlearn
 
 After you install all of the dependencies you can run the notebook by.
 
